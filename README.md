@@ -23,13 +23,6 @@ Blog post about [R-Ladies Melbourne 2017-2018 highlights!](https://rladiesmelb20
 Invited talk at Bioconductor Asia conference: [R-Ladies: An update on the local and wider picture](https://github.com/annaquaglieri16/BiocAsia---R-Ladies-An-update-on-the-local-and-wider-picture)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<blockquote class="twitter-tweet" data-lang="en">
-<p lang="en" dir="ltr">
-Next up <a href="https://twitter.com/annaquagli?ref_src=twsrc%5Etfw">@annaquagli</a> describing the amazing growth with <a href="https://twitter.com/RLadiesMelb?ref_src=twsrc%5Etfw">@RLadiesMelb</a>! <a href="https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw">\#rladies</a> <a href="https://twitter.com/hashtag/biocAsia?src=hash&amp;ref_src=twsrc%5Etfw">\#biocAsia</a> <a href="https://t.co/YPsNTi6mUf">pic.twitter.com/YPsNTi6mUf</a>
-</p>
-— Stephanie Hicks (@stephaniehicks) <a href="https://twitter.com/stephaniehicks/status/1068295570509316096?ref_src=twsrc%5Etfw">November 30, 2018</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 Tutorial at useR! R: [Looking to clean your data? Learn how to Remove Unwanted Variation with R - Part 2](https://www.youtube.com/watch?v=HUcZQC3xWDo&list=PL4IzsxWztPdnyAKQQLxA4ucpaCLdsKvZw&index=4)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
