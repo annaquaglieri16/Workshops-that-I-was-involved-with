@@ -23,6 +23,11 @@ Blog post about [R-Ladies Melbourne 2017-2018 highlights!](https://rladiesmelb20
 Invited talk at Bioconductor Asia conference: [R-Ladies: An update on the local and wider picture](https://github.com/annaquaglieri16/BiocAsia---R-Ladies-An-update-on-the-local-and-wider-picture)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+How R you? Lightning talks for [R-Ladies Melbourne second anniversary](https://www.meetup.com/R-Ladies-Melbourne/events/254783169/)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+I organised and event in which which we ask R-Ladies members to send us their favourite `R` tips and I then combined them into a [`Rmd` document](https://rladies-melbourne-tips.netlify.com/) and they were presented on the night of the event.
+
 Tutorial at useR! R: [Looking to clean your data? Learn how to Remove Unwanted Variation with R - Part 2](https://www.youtube.com/watch?v=HUcZQC3xWDo&list=PL4IzsxWztPdnyAKQQLxA4ucpaCLdsKvZw&index=4)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
