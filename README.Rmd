@@ -1,5 +1,5 @@
 ---
-title: "Workshops that I was involved with"
+title: "R Workshops/Seminars that I was involved with"
 author: "Anna Quaglieri"
 date: "01/03/2019"
 output: github_document

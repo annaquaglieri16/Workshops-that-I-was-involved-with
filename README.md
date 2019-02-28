@@ -1,4 +1,4 @@
-Workshops that I was involved with
+R Workshops/Seminars that I was involved with
 ================
 Anna Quaglieri
 01/03/2019
