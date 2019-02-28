@@ -41,6 +41,11 @@ Tutorial at useR! R: [Follow Me: Introduction to social media analysis in R - Pa
 
 Find [material used](https://github.com/annaquaglieri16/Follow-Me-Introduction-to-social-media-analysis-in-R).
 
+brainSTEMM mentoring: teaching R to high schools girls from country Victoria
+----------------------------------------------------------------------------
+
+[Materials used](https://github.com/annaquaglieri16/brainSTEMM) for the mentoring and teaching experience
+
 2017
 ====
 
