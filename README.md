@@ -23,6 +23,9 @@ Blog post about [R-Ladies Melbourne 2017-2018 highlights!](https://rladiesmelb20
 Invited talk at Bioconductor Asia conference: [R-Ladies: An update on the local and wider picture](https://github.com/annaquaglieri16/BiocAsia---R-Ladies-An-update-on-the-local-and-wider-picture)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Oz Unconf [`learn ggaimate` team](https://bit.ly/2HfY31c)
+---------------------------------------------------------
+
 How R you? Lightning talks for [R-Ladies Melbourne second anniversary](https://www.meetup.com/R-Ladies-Melbourne/events/254783169/)
 -----------------------------------------------------------------------------------------------------------------------------------
 
