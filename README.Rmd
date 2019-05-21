@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # 2019
 
-## R-Ladies Melbourne Meetup: [Producing publication-ready documents in R Markdown](Producing publication-ready documents in R Markdown) 
+## R-Ladies Melbourne Meetup: [Producing publication-ready documents in R Markdown](https://github.com/R-LadiesMelbourne/2019-02-27-publications-ready-documents-with-Rmarkdown) 
 
 Find [material and references](http://rpubs.com/annaquagli/471405) that I presented about writing journal articles with `bookdown` and other alternatives.  
 
